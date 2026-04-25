@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://launchpad-pro-1978b5b1.zappy5.app/sitemap.xml
