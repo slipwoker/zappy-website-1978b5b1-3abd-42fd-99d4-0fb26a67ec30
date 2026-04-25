@@ -1,46 +1,35 @@
-# LaunchPad Pro — Generative Engine Optimization Map
-
-> צור דף נחיתה יפה מאוד
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://launchpad-pro-1978b5b1.zappy5.app
+https://example.com
 צור דף נחיתה יפה מאוד
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://launchpad-pro-1978b5b1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://launchpad-pro-1978b5b1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://launchpad-pro-1978b5b1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About LaunchPad Pro
-צור דף נחיתה יפה מאוד
-
-## Target Audience
-- יזמי סטארט-אפ
-- סוכנויות שיווק דיגיטלי
-
-## Industry
-General
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://launchpad-pro-1978b5b1.zappy5.app/sitemap.xml
-- **Robots.txt**: https://launchpad-pro-1978b5b1.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
